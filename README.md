@@ -36,4 +36,4 @@ To stay updated with the latest changes, keep an eye on the repository for new c
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ayahesham1/BankManagement.git
+git clone https://github.com/hkim1215/Bank-Management-System.git
